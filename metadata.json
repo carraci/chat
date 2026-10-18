@@ -1,0 +1,6 @@
+{
+  "name": "Smart Assistant Chatbot",
+  "description": "Full-stack AI Chatbot with two-way conversation, Gemini 3.8 Flash integration, file and media uploads, editable and deletable persistent chat history, and auto-responder mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
